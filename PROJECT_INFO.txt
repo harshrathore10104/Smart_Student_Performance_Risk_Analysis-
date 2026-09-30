@@ -1,0 +1,4 @@
+Project: Smart Student Performance & Risk Analysis System
+Course: Python / AIML-oriented Build Your Own Project
+Purpose: VITyarthi college submission
+Initial validation model accuracy: 94.58%
